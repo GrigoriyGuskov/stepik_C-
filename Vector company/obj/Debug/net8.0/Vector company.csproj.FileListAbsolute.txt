@@ -1,0 +1,14 @@
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.AssemblyInfoInputs.cache
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.AssemblyInfo.cs
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.csproj.CoreCompileInputs.cache
+D:\prog\C#\Vector company\bin\Debug\net8.0\Vector company.exe
+D:\prog\C#\Vector company\bin\Debug\net8.0\Vector company.deps.json
+D:\prog\C#\Vector company\bin\Debug\net8.0\Vector company.runtimeconfig.json
+D:\prog\C#\Vector company\bin\Debug\net8.0\Vector company.dll
+D:\prog\C#\Vector company\bin\Debug\net8.0\Vector company.pdb
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.dll
+D:\prog\C#\Vector company\obj\Debug\net8.0\refint\Vector company.dll
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.pdb
+D:\prog\C#\Vector company\obj\Debug\net8.0\Vector company.genruntimeconfig.cache
+D:\prog\C#\Vector company\obj\Debug\net8.0\ref\Vector company.dll

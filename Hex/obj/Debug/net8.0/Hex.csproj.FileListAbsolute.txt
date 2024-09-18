@@ -1,0 +1,14 @@
+D:\prog\C#\Hex\bin\Debug\net8.0\Hex.exe
+D:\prog\C#\Hex\bin\Debug\net8.0\Hex.deps.json
+D:\prog\C#\Hex\bin\Debug\net8.0\Hex.runtimeconfig.json
+D:\prog\C#\Hex\bin\Debug\net8.0\Hex.dll
+D:\prog\C#\Hex\bin\Debug\net8.0\Hex.pdb
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.AssemblyInfoInputs.cache
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.AssemblyInfo.cs
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.csproj.CoreCompileInputs.cache
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.dll
+D:\prog\C#\Hex\obj\Debug\net8.0\refint\Hex.dll
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.pdb
+D:\prog\C#\Hex\obj\Debug\net8.0\Hex.genruntimeconfig.cache
+D:\prog\C#\Hex\obj\Debug\net8.0\ref\Hex.dll

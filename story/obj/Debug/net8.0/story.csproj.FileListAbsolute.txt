@@ -1,0 +1,14 @@
+D:\prog\C#\story\bin\Debug\net8.0\story.exe
+D:\prog\C#\story\bin\Debug\net8.0\story.deps.json
+D:\prog\C#\story\bin\Debug\net8.0\story.runtimeconfig.json
+D:\prog\C#\story\bin\Debug\net8.0\story.dll
+D:\prog\C#\story\bin\Debug\net8.0\story.pdb
+D:\prog\C#\story\obj\Debug\net8.0\story.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\story\obj\Debug\net8.0\story.AssemblyInfoInputs.cache
+D:\prog\C#\story\obj\Debug\net8.0\story.AssemblyInfo.cs
+D:\prog\C#\story\obj\Debug\net8.0\story.csproj.CoreCompileInputs.cache
+D:\prog\C#\story\obj\Debug\net8.0\story.dll
+D:\prog\C#\story\obj\Debug\net8.0\refint\story.dll
+D:\prog\C#\story\obj\Debug\net8.0\story.pdb
+D:\prog\C#\story\obj\Debug\net8.0\story.genruntimeconfig.cache
+D:\prog\C#\story\obj\Debug\net8.0\ref\story.dll

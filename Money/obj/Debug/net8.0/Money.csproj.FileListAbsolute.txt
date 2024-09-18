@@ -1,0 +1,14 @@
+D:\prog\C#\Money\bin\Debug\net8.0\Money.exe
+D:\prog\C#\Money\bin\Debug\net8.0\Money.deps.json
+D:\prog\C#\Money\bin\Debug\net8.0\Money.runtimeconfig.json
+D:\prog\C#\Money\bin\Debug\net8.0\Money.dll
+D:\prog\C#\Money\bin\Debug\net8.0\Money.pdb
+D:\prog\C#\Money\obj\Debug\net8.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\Money\obj\Debug\net8.0\Money.AssemblyInfoInputs.cache
+D:\prog\C#\Money\obj\Debug\net8.0\Money.AssemblyInfo.cs
+D:\prog\C#\Money\obj\Debug\net8.0\Money.csproj.CoreCompileInputs.cache
+D:\prog\C#\Money\obj\Debug\net8.0\Money.dll
+D:\prog\C#\Money\obj\Debug\net8.0\refint\Money.dll
+D:\prog\C#\Money\obj\Debug\net8.0\Money.pdb
+D:\prog\C#\Money\obj\Debug\net8.0\Money.genruntimeconfig.cache
+D:\prog\C#\Money\obj\Debug\net8.0\ref\Money.dll

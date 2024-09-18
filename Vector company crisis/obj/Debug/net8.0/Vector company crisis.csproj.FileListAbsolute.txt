@@ -1,0 +1,14 @@
+D:\prog\C#\Vector company crisis\bin\Debug\net8.0\Vector company crisis.exe
+D:\prog\C#\Vector company crisis\bin\Debug\net8.0\Vector company crisis.deps.json
+D:\prog\C#\Vector company crisis\bin\Debug\net8.0\Vector company crisis.runtimeconfig.json
+D:\prog\C#\Vector company crisis\bin\Debug\net8.0\Vector company crisis.dll
+D:\prog\C#\Vector company crisis\bin\Debug\net8.0\Vector company crisis.pdb
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.AssemblyInfoInputs.cache
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.AssemblyInfo.cs
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.csproj.CoreCompileInputs.cache
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.dll
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\refint\Vector company crisis.dll
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.pdb
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\Vector company crisis.genruntimeconfig.cache
+D:\prog\C#\Vector company crisis\obj\Debug\net8.0\ref\Vector company crisis.dll

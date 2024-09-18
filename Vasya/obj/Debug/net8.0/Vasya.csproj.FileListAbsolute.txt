@@ -1,0 +1,14 @@
+D:\prog\C#\Vasya\bin\Debug\net8.0\Vasya.exe
+D:\prog\C#\Vasya\bin\Debug\net8.0\Vasya.deps.json
+D:\prog\C#\Vasya\bin\Debug\net8.0\Vasya.runtimeconfig.json
+D:\prog\C#\Vasya\bin\Debug\net8.0\Vasya.dll
+D:\prog\C#\Vasya\bin\Debug\net8.0\Vasya.pdb
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.AssemblyInfoInputs.cache
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.AssemblyInfo.cs
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.csproj.CoreCompileInputs.cache
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.dll
+D:\prog\C#\Vasya\obj\Debug\net8.0\refint\Vasya.dll
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.pdb
+D:\prog\C#\Vasya\obj\Debug\net8.0\Vasya.genruntimeconfig.cache
+D:\prog\C#\Vasya\obj\Debug\net8.0\ref\Vasya.dll

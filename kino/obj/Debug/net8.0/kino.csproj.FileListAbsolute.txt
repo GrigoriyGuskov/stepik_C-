@@ -1,0 +1,14 @@
+D:\prog\C#\kino\bin\Debug\net8.0\kino.exe
+D:\prog\C#\kino\bin\Debug\net8.0\kino.deps.json
+D:\prog\C#\kino\bin\Debug\net8.0\kino.runtimeconfig.json
+D:\prog\C#\kino\bin\Debug\net8.0\kino.dll
+D:\prog\C#\kino\bin\Debug\net8.0\kino.pdb
+D:\prog\C#\kino\obj\Debug\net8.0\kino.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\C#\kino\obj\Debug\net8.0\kino.AssemblyInfoInputs.cache
+D:\prog\C#\kino\obj\Debug\net8.0\kino.AssemblyInfo.cs
+D:\prog\C#\kino\obj\Debug\net8.0\kino.csproj.CoreCompileInputs.cache
+D:\prog\C#\kino\obj\Debug\net8.0\kino.dll
+D:\prog\C#\kino\obj\Debug\net8.0\refint\kino.dll
+D:\prog\C#\kino\obj\Debug\net8.0\kino.pdb
+D:\prog\C#\kino\obj\Debug\net8.0\kino.genruntimeconfig.cache
+D:\prog\C#\kino\obj\Debug\net8.0\ref\kino.dll
